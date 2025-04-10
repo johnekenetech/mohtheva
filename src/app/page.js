@@ -63,7 +63,7 @@ export default function Home() {
       <section className="flex flex-col-reverse md:flex-row items-center justify-center p-8 gap-8 md:mt-10 md:mx-10 relative z-10 lg:mx-18">
         <div className={`md:w-1/2 text-center md:text-left transition-opacity duration-500 ${showText ? 'opacity-100' : 'opacity-0'}`}>
           <h1 className="text-3xl md:text-6xl lg:text-8xl">
-            Hi, I'm <span className="text-purple-600">Motunde Opeyemi.</span>
+            Hi, I am <span className="text-purple-600">Motunde Opeyemi.</span>
           </h1>
           <p className="mt-1 md:mt-5 lg:text-[20px]">
             virtual assistant and data entry specialist
@@ -192,7 +192,7 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl text-purple-600 mb-6">Ready to Get Started?</h2>
           <p className="text-lg mb-8">
-            Let's work together to streamline your business operations and boost productivity.
+            Let us work together to streamline your business operations and boost productivity.
           </p>
           <Link
             href="/contact"

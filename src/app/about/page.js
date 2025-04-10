@@ -24,10 +24,10 @@ export default function About() {
             <div className="w-full md:w-1/2">
               <h2 className="text-2xl text-purple-600 mb-4">Professional Virtual Assistant</h2>
               <p className="text-gray-600 mb-4">
-                With over 5 years of experience in virtual assistance and data management, I've helped numerous businesses streamline their operations and achieve their goals. My expertise spans across various industries, from e-commerce to tech startups.
+                With over 5 years of experience in virtual assistance and data management, I have helped numerous businesses streamline their operations and achieve their goals. My expertise spans across various industries, from e-commerce to tech startups.
               </p>
               <p className="text-gray-600 mb-4">
-                I specialize in providing comprehensive administrative support, customer service, and project management solutions tailored to each client's unique needs.
+                I specialize in providing comprehensive administrative support, customer service, and project management solutions tailored to each clients unique needs.
               </p>
               <div className="grid grid-cols-2 gap-4 mt-8">
                 <div className="bg-white p-4 rounded-lg shadow-sm">
